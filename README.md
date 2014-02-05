@@ -1,4 +1,4 @@
-kaggle_packingSantasSleigh
+Kaggle Packing Santa's Sleigh
 ==========================
 
 This repository contains the [Julia](http://julialang.org) sources for
@@ -26,4 +26,4 @@ solution viewer written in
 early development and is limited to visualizing a few thousand
 presents. The following screenshot shows an example visualization. 
  
-![example solution visualization](images/solvier.png)
+![example solution visualization](images/solviewer.png)
